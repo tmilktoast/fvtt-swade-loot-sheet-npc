@@ -1071,7 +1071,7 @@ class LootSwadeNPC extends SwadeBaseActorSheet {
 
 //Register the loot sheet
 Actors.registerSheet("swade", LootSheetSwade, {
-    types: ["npc"],
+    types: ["loot"],
     makeDefault: false
 });
 
