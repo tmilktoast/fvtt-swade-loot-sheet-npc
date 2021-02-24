@@ -10,7 +10,7 @@
     "esmodules": ["/lootsheetswade.js"],
 	"styles": ["/css/lootsheetnpc5e.css"],
 	"socket": true,
-	"url": "https://github.com/jopeek/fvtt-loot-sheet-npc-5e",
+	"url": "https://github.com/tmilktoast/fvtt-swade-loot-sheet-npc",
 	"manifest": "https://github.com/tmilktoast/fvtt-swade-loot-sheet-npc/blob/main/module.json",
-	"download": "https://github.com/jopeek/fvtt-loot-sheet-npc-5e/archive/master.zip"
+	"download": "hhttps://github.com/tmilktoast/fvtt-swade-loot-sheet-npc/archive/main.zip"
 }
