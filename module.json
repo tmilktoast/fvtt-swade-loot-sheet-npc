@@ -12,5 +12,5 @@
 	"socket": true,
 	"url": "https://github.com/tmilktoast/fvtt-swade-loot-sheet-npc",
 	"manifest": "https://github.com/tmilktoast/fvtt-swade-loot-sheet-npc/blob/main/module.json",
-	"download": "hhttps://github.com/tmilktoast/fvtt-swade-loot-sheet-npc/archive/main.zip"
+	"download": "https://github.com/tmilktoast/fvtt-swade-loot-sheet-npc/archive/main.zip"
 }
